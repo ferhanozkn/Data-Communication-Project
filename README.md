@@ -54,6 +54,7 @@ Dil: Python 3.x
 Kütüphaneler: socket, sys, random, time
 
 ▶️ Nasıl Çalıştırılır?
+
 Sistemin doğru çalışması için dosyaların sırasıyla ve ayrı terminallerde çalıştırılması gerekir:
 
 Adım 1: Alıcıyı Başlatın
